@@ -1,0 +1,101 @@
+[
+    {
+        "id": "of_ift_cup",
+        "title": "OverFrag Insta Freeze Tag - Cup",
+        "author": "OverFrag",
+        "description": "OverFrag's iFT settings for a cup game",
+        "basegt": "ft",
+        "cvars": {
+            "g_gametype": 9,
+            "roundlimit": 20,
+            "timelimit": 30,
+            "roundtimelimit": 600,
+            "g_freezeThawThroughSurface": 0,
+            "g_freezeThawTick": 2,
+            "g_freezeEnvironmentalRespawnDelay": 2000,
+            "dmflags": 28,
+            "g_damage_rg": 100,
+            "g_instaGib": 1,
+            "g_loadout": 0,
+            "g_startingWeapons": 65,
+            "g_friendlyFireDampen": 0,
+            "teamsize": 4,
+            "pmove_AirSteps": 0,
+            "g_railJump": 620,
+            "g_freezeRoundDelay": 3000,
+            "g_freezeProtectedSpawnTime": 1500,
+            "sv_warmupReadyPercentage": 1,
+            "g_timeoutCount": 10,
+            "g_timeoutLen": 90
+        }
+    },
+    {
+        "id": "of_ift",
+        "title": "OverFrag Insta Freeze Tag",
+        "author": "OverFrag",
+        "description": "OverFrag's iFT settings adjusted for a public game",
+        "basegt": "ft",
+        "cvars": {
+            "g_gametype": 9,
+            "roundlimit": 15,
+            "timelimit": 30,
+            "roundtimelimit": 600,
+            "g_freezeThawThroughSurface": 0,
+            "g_freezeThawTick": 2,
+            "g_freezeEnvironmentalRespawnDelay": 2000,
+            "dmflags": 28,
+            "g_damage_rg": 100,
+            "g_instaGib": 1,
+            "g_loadout": 0,
+            "g_startingWeapons": 65,
+            "g_friendlyFireDampen": 0,
+            "pmove_AirSteps": 0,
+            "g_railJump": 620,
+            "g_freezeRoundDelay": 3000,
+            "g_freezeProtectedSpawnTime": 1500,
+            "sv_warmupReadyPercentage": 0.51,
+            "g_timeoutCount": 0
+        }
+    },
+    {
+        "id": "of_ictf_cup",
+        "title": "OverFrag Insta CTF - Cup",
+        "author": "OverFrag",
+        "description": "OverFrag's iCTF settings for a cup game",
+        "basegt": "ctf",
+        "cvars": {
+            "g_gametype": 5,
+            "teamsize": 4,
+            "timelimit": 20,
+            "dmflags": 16,
+            "g_startingWeapons": 65,
+            "g_loadout": 0,
+            "g_instaGib": 1,
+            "g_headShotEnable": 1,
+            "g_allowVoteMidGame": 1,
+            "sv_warmupReadyPercentage": 1,
+            "g_timeoutCount": 10,
+            "g_timeoutLen": 90
+        }
+    },
+    {
+        "id": "of_ictf",
+        "title": "OverFrag Insta CTF",
+        "author": "OverFrag",
+        "description": "OverFrag's iCTF settings adjusted for a public game",
+        "basegt": "ctf",
+        "cvars": {
+            "g_gametype": 5,
+            "teamsize": 4,
+            "timelimit": 20,
+            "dmflags": 16,
+            "g_startingWeapons": 65,
+            "g_loadout": 0,
+            "g_instaGib": 1,
+            "g_headShotEnable": 1,
+            "g_allowVoteMidGame": 1,
+            "sv_warmupReadyPercentage": 1,
+            "g_timeoutCount": 0
+        }
+    }
+]

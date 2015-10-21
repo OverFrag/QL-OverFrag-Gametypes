@@ -1,0 +1,11 @@
+"workshopitem"
+{
+	"appid"		"344320"
+	"publishedfileid"		"538593058"
+	"contentfolder"		"/Users/piotr/Code/Quake Live/OverFrag/gametypes/content/"
+	"previewfile"		"/Users/piotr/Code/Quake Live/OverFrag/gametypes/gametypes.jpg"
+	"visibility"		"0"
+	"title"		"OverFrag Gametypes"
+	"description"		"www.OverFrag.com Gametypes"
+	"changenote"		"Initial Release"
+}
