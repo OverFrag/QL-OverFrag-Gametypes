@@ -94,7 +94,7 @@
             "g_instaGib": 1,
             "g_headShotEnable": 1,
             "g_allowVoteMidGame": 1,
-            "sv_warmupReadyPercentage": 1,
+            "sv_warmupReadyPercentage": 0.51,
             "g_timeoutCount": 0
         }
     }
