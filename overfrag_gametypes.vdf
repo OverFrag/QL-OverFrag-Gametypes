@@ -7,5 +7,5 @@
 	"visibility"		"0"
 	"title"		"OverFrag Gametypes"
 	"description"		"www.OverFrag.com Gametypes"
-	"changenote"		"Initial Release"
+	"changenote"		"Disable round delay in iFT, add spawn protection and mercylimit"
 }

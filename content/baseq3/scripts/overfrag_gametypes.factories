@@ -1,10 +1,11 @@
 [
     {
         "id": "of_ift_cup",
-        "title": "OverFrag Insta Freeze Tag - Cup",
+        "title": "OverFrag iFT Cup",
         "author": "OverFrag",
         "description": "OverFrag's iFT settings for a cup game",
         "basegt": "ft",
+        "tags": ["overfrag"],
         "cvars": {
             "g_gametype": 9,
             "roundlimit": 20,
@@ -22,19 +23,21 @@
             "teamsize": 4,
             "pmove_AirSteps": 0,
             "g_railJump": 620,
-            "g_freezeRoundDelay": 3000,
+            "g_freezeRoundDelay": 0,
             "g_freezeProtectedSpawnTime": 1500,
             "sv_warmupReadyPercentage": 1,
             "g_timeoutCount": 10,
-            "g_timeoutLen": 90
+            "g_timeoutLen": 90,
+            "mercylimit": 0
         }
     },
     {
         "id": "of_ift",
-        "title": "OverFrag Insta Freeze Tag",
+        "title": "OverFrag iFT",
         "author": "OverFrag",
         "description": "OverFrag's iFT settings adjusted for a public game",
         "basegt": "ft",
+        "tags": ["overfrag"],
         "cvars": {
             "g_gametype": 9,
             "roundlimit": 15,
@@ -52,18 +55,20 @@
             "teamsize": 6,
             "pmove_AirSteps": 0,
             "g_railJump": 620,
-            "g_freezeRoundDelay": 3000,
+            "g_freezeRoundDelay": 0,
             "g_freezeProtectedSpawnTime": 1500,
             "sv_warmupReadyPercentage": 0.51,
-            "g_timeoutCount": 0
+            "g_timeoutCount": 0,
+            "mercylimit": 8
         }
     },
     {
         "id": "of_ictf_cup",
-        "title": "OverFrag Insta CTF - Cup",
+        "title": "OverFrag iCTF Cup",
         "author": "OverFrag",
         "description": "OverFrag's iCTF settings for a cup game",
         "basegt": "ctf",
+        "tags": ["overfrag"],
         "cvars": {
             "g_gametype": 5,
             "teamsize": 4,
@@ -81,10 +86,11 @@
     },
     {
         "id": "of_ictf",
-        "title": "OverFrag Insta CTF",
+        "title": "OverFrag iCTF",
         "author": "OverFrag",
         "description": "OverFrag's iCTF settings adjusted for a public game",
         "basegt": "ctf",
+        "tags": ["overfrag"],
         "cvars": {
             "g_gametype": 5,
             "teamsize": 5,
