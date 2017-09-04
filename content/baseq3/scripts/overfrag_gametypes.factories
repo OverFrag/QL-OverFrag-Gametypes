@@ -81,7 +81,7 @@
             "g_allowVoteMidGame": 1,
             "sv_warmupReadyPercentage": 1,
             "g_timeoutCount": 10,
-            "g_timeoutLen": 90
+            "g_timeoutLen": 90,
             "g_overtime": 0,
             "g_suddenDeathRespawn": 1
         }
@@ -104,7 +104,7 @@
             "g_headShotEnable": 1,
             "g_allowVoteMidGame": 1,
             "sv_warmupReadyPercentage": 0.51,
-            "g_timeoutCount": 0
+            "g_timeoutCount": 0,
             "g_overtime": 0,
             "g_suddenDeathRespawn": 1
         }
